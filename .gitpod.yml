@@ -1,0 +1,12 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - before: clear && echo 'Wel...'
+    init: echo 'hello'
+    command: echo 'welcome'
+
+vscode:
+  extensions:
+    - k--kato.intellij-idea-keybindings
+    
