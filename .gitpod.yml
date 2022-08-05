@@ -9,4 +9,5 @@ tasks:
 vscode:
   extensions:
     - k--kato.intellij-idea-keybindings
+    - https://github.com/redhat-developer/vscode-java/releases/download/v1.7.0/java-1.7.0.vsix
     
